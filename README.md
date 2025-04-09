@@ -42,12 +42,12 @@ Per integrare MiMMA nel tuo sito web WordPress, segui questi passaggi:
 Una volta installato e configurato correttamente, la finestra della chat di MiMMA dovrebbe essere visibile sul tuo sito web.
 
 1.  **Apri la Chat:** Clicca sul pulsante di toggle della chat (identificato da `chatToggleBtn`) per espandere la finestra della chat. 
-![image](https://github.com/user-attachments/assets/68a2e3f5-3b85-4f62-b5b5-723d76fefbac)
+         ![image](https://github.com/user-attachments/assets/68a2e3f5-3b85-4f62-b5b5-723d76fefbac)
 2.  **Digita la tua Domanda:** Inserisci la tua domanda relativa ad avvisi, decreti o bandi di concorso nella casella di input (identificata da `user-input`).
-![image](https://github.com/user-attachments/assets/bda4c0e2-288e-4650-83d9-da03aae4db5c)
+         ![image](https://github.com/user-attachments/assets/bda4c0e2-288e-4650-83d9-da03aae4db5c)
 3.  **Invia la Domanda:** Clicca sul pulsante di invio (identificato da `send-btn`) o premi il tasto `Invio`.
 4.  **Leggi la Risposta:** La risposta di MiMMA apparirà nella finestra della chat (identificata da `chat-box`).
-![image](https://github.com/user-attachments/assets/1a204766-2350-4475-84cf-411be12bc410)
+         ![image](https://github.com/user-attachments/assets/1a204766-2350-4475-84cf-411be12bc410)
 5.  **Chiudi la Chat:** Clicca sul pulsante di chiusura (identificato da `close-chat`) per minimizzare la finestra della chat.
 
 MiMMA cercherà di comprendere la tua domanda, cercare informazioni rilevanti sul sito web e fornirti una risposta basata sulle informazioni disponibili e sulla sua conoscenza.
