@@ -20,8 +20,8 @@ Questo repository contiene il codice JavaScript e gli script PHP correlati per i
 
 * `chatbot.js`: Contiene la logica principale dell'applicazione chatbot in JavaScript, inclusa la gestione dell'interfaccia utente, le chiamate API e l'elaborazione delle risposte.
 * `get-api-key.php`: Uno script PHP responsabile della fornitura sicura della chiave API necessaria per comunicare con il modello linguistico Gemini. **Importante:** Questo script dovrebbe essere configurato correttamente per proteggere la tua chiave API.
-* `search-wp.php`: Uno script PHP che riceve una query e cerca contenuti pertinenti all'interno del database di WordPress. Restituisce i risultati in formato JSON.
-* `footer.php`: Un file PHP (presumibilmente parte del tema WordPress) in cui lo script JavaScript e potenzialmente la struttura HTML della chat vengono inclusi.
+* `search-wp.php`: Uno script PHP che riceve una query e cerca contenuti pertinenti all'interno del database di WordPress. 
+* `footer.php`: Un file PHP (presumibilmente parte del tema WordPress) in cui lo script JavaScript e la struttura HTML della chat vengono inclusi.
 
 ## Installazione
 
